@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python scripting
 - 💞️ I’m looking to collaborate on Devops tools
 - 📫 How to reach me venkatavuluri@gmail.com
+https://docs.python.org/3.10/tutorial/index.html
 
 <!---
 VenkatAvuluri/VenkatAvuluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
